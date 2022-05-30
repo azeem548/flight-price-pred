@@ -36,7 +36,6 @@ Pygments
 pyparsing==3.0.9
 python-dateutil
 pytz==2022.1
-pywin32==302;platform_system == "Windows"
 pyzmq
 scikit-learn==1.0.2
 scipy==1.7.3
@@ -45,7 +44,7 @@ six
 sklearn==0.0
 threadpoolctl==3.1.0
 tornado
-traitlets @ file:///tmp/build/80754af9/traitlets_1636710298902/work
+traitlets
 typing_extensions==4.2.0
 wcwidth
 Werkzeug==2.1.2
